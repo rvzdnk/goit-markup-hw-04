@@ -371,23 +371,14 @@ align-items: center;
 }
 
 .social-list-link:hover{
-  background: #2196F3;  
+  background: #2196F3;
 }
 
-.icon-instagram:hover{
-    fill:#FFFFFF;
+.social-icon :hover{
+    fill: #FFFFFF;
 }
 
-.icon-twitter:hover{
-    fill:#FFFFFF;   
-}
 
-.icon-facebook:hover{
-    fill:#FFFFFF;   
-}
-.icon-linkedin:hover{
-    fill:#FFFFFF;   
-}
 /*Our clients*/
 .our-clients{
     display:flex;
