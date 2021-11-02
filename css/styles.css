@@ -289,6 +289,7 @@ justify-content:center;
 display:flex;
 list-style: none;
 justify-content:center;
+align-items:center;
 }
 
 .team-container li {
@@ -342,6 +343,7 @@ flex-flow: column;
 align-content: center;
 padding-top: 25px;
 }
+
 .team-position{
 font-family: Roboto;
 font-style: normal;
@@ -353,9 +355,9 @@ letter-spacing: 0.03em;
 color: #757575;    
 }
 .social-list {
-    list-style: none;
-    display:flex;
-    justify-content: center; 
+list-style: none;
+display:flex;
+justify-content: center; 
 }
 
 .icon-instagram{
