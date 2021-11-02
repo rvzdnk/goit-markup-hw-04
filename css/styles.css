@@ -71,7 +71,7 @@ color:#212121;
 }
 
 .menu-web a:hover{
-color: #2196F3; 
+color: #2196F3;
 }
 
 .contact-menu{
@@ -118,7 +118,7 @@ color: #757575;
 .theme-bg{
 background-image: url("/images/theme-bg.jpg"),
 linear-gradient(rgba(47, 48, 58, 0.4),rgba(47, 48, 58, 0.4));
-object-fit: contain;
+object-fit: cover;
 }
 
 .theme{
