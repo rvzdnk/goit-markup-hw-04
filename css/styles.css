@@ -116,7 +116,7 @@ color: #757575;
     }
 /*Main theme*/
 .theme-bg{
-background-image: url("./../images/theme-bg.jpg"),
+background-image: url("../images/theme-bg.jpg"),
 linear-gradient(rgba(47, 48, 58, 0.4),rgba(47, 48, 58, 0.4));
 object-fit: cover;
 }
