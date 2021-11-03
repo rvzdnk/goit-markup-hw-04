@@ -116,7 +116,7 @@ color: #757575;
     }
 /*Main theme*/
 .theme-bg{
-background-image: url("/images/theme-bg.jpg"),
+background-image: url("./../images/theme-bg.jpg"),
 linear-gradient(rgba(47, 48, 58, 0.4),rgba(47, 48, 58, 0.4));
 object-fit: cover;
 }
@@ -374,7 +374,8 @@ align-items: center;
   background: #2196F3;
 }
 
-.social-icon :hover{
+.social-list-link:hover
+svg{
     fill: #FFFFFF;
 }
 
@@ -427,29 +428,11 @@ align-items: center;
 border-color:#2196F3;
 }
 
-.icon-client1:hover{
-fill:#2196F3; 
+.client-list-link:hover
+svg{
+fill:#2196F3;    
 }
 
-.icon-client2:hover{
-fill:#2196F3; 
-}
-
-.icon-client3:hover{
-fill:#2196F3; 
-}
-
-.icon-client4:hover{
-fill:#2196F3; 
-}
-
-.icon-client5:hover{
-fill:#2196F3; 
-}
-
-.icon-client6:hover{
-fill:#2196F3; 
-}
 /*Footer*/
 .footer{
 height: 252px;
@@ -541,7 +524,7 @@ text-transform: uppercase;
 color: #FFFFFF;
 }
 
-.icon-footer{
+.icon-footer {
     fill:#FFFFFF
 }
 
