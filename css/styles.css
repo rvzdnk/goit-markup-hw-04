@@ -114,7 +114,7 @@ color: #757575;
     }
 .contact-menu-tel:hover
 svg{ 
-stroke:#2196F3;   
+fill:#2196F3;   
 }      
 
 /*Main theme*/
@@ -422,7 +422,7 @@ svg{
     padding-left:20px;
 }
 
-.icon-client4{
+.icon-client{
 fill:#AFB1B8;
 }
 
