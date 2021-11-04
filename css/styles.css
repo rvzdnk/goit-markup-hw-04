@@ -100,9 +100,11 @@ color: #2196F3;
 fill: #757575;    
 }
 
-.icon-mail:hover{
+.contact-menu-mail:hover
+svg{
 fill: #2196F3;   
 }
+
 .contact-menu-tel{
 text-decoration:none;
 color: #757575;
@@ -110,10 +112,11 @@ color: #757575;
 .contact-menu-tel:hover{
     color: #2196F3;
     }
-        
-.icon-tel:hover {
-    stroke:#2196F3;   
-    }
+.contact-menu-tel:hover
+svg{ 
+stroke:#2196F3;   
+}      
+
 /*Main theme*/
 .theme-bg{
 background-image: url("../images/theme-bg.jpg"),
@@ -357,7 +360,19 @@ justify-content: center;
 }
 
 .icon-instagram{
-fill:#AFB1B8
+    fill:#AFB1B8
+    }
+
+.icon-linkedin{
+    fill:#AFB1B8
+}
+
+.icon-twitter{
+    fill:#AFB1B8
+}
+
+.icon-facebook{
+    fill:#AFB1B8
 }
 
 .social-list-link{
